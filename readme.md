@@ -107,7 +107,6 @@ pip install -r requirements.txt
 
 # Configure environment
 cp .env.example .env
-# Edit .env with your DATABASE_URL and OPENAI_API_KEY
 
 # Initialize database
 python setup_database.py
@@ -389,10 +388,9 @@ MIT License - See LICENSE file for details
 
 ## Contact & Links
 
-**Project Repository**: [GitHub Link]  
-**Demo Video**: [Coming Soon]  
-**Documentation**: [Wiki Link]  
-**Issue Tracker**: [GitHub Issues]
+**Project Repository**: [https://github.com/NMNayan57/rag-website-generator.git]  
+
+
 
 **Author**: Nasim Mahmud Nayan  
 **Email**: smnoyan670@gmail.com
