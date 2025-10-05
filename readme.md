@@ -36,7 +36,19 @@ This system uses **Retrieval-Augmented Generation (RAG)** to:
 | Component reuse | 100% | 0% | 0% |
 
 ---
+## Demo Screenshots
 
+### UI Interface
+![Main Interface](assets/image1.png)
+
+### Generated Code Output
+![Code Output](assets/image2.png)
+
+### Terminal Logs (RAG Proof)
+![RAG Evidence](assets/image3.png)
+
+### Full Demo GIF
+![Full Generation Process](assets/demo.gif)
 ## Architecture
 
 ```
