@@ -1,0 +1,25 @@
+{
+  "id": "hero-flowbite-newsletter",
+  "filename": "hero-flowbite-newsletter.tsx",
+  "category": "hero",
+  "style_tags": [
+    "flowbite",
+    "newsletter",
+    "signup",
+    "centered"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "title": "string",
+    "subtitle": "string",
+    "emailPlaceholder": "string",
+    "buttonText": "string"
+  },
+  "dependencies": [],
+  "description": "Flowbite hero with newsletter signup form",
+  "source": "Flowbite Blocks"
+}

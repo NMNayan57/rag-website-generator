@@ -1,0 +1,24 @@
+{
+  "id": "footer-tailwind-corporate",
+  "filename": "footer-tailwind-corporate.tsx",
+  "category": "footer",
+  "style_tags": [
+    "tailwind",
+    "corporate",
+    "comprehensive",
+    "multi-column"
+  ],
+  "color_scheme": [
+    "dark",
+    "gray"
+  ],
+  "complexity": "high",
+  "props_schema": {
+    "company": "object",
+    "sections": "array",
+    "social": "array"
+  },
+  "dependencies": [],
+  "description": "Comprehensive Tailwind CSS corporate footer",
+  "source": "Tailwind UI"
+}

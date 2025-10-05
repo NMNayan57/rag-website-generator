@@ -1,0 +1,19 @@
+# Phase 3: Python Dependencies for RAG Website Generator
+
+# Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+psycopg2-binary
+
+# ML/Embeddings
+sentence-transformers
+torch
+
+# OpenAI
+openai
+
+# Utilities
+python-dotenv

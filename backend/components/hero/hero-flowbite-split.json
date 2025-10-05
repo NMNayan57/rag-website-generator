@@ -1,0 +1,26 @@
+{
+  "id": "hero-flowbite-split",
+  "filename": "hero-flowbite-split.tsx",
+  "category": "hero",
+  "style_tags": [
+    "flowbite",
+    "split-layout",
+    "image",
+    "cta"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "title": "string",
+    "description": "string",
+    "primaryCta": "object",
+    "secondaryCta": "object",
+    "imageSrc": "string"
+  },
+  "dependencies": [],
+  "description": "Flowbite hero with split layout and side image",
+  "source": "Flowbite Blocks"
+}

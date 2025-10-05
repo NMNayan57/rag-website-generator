@@ -1,0 +1,27 @@
+{
+  "id": "hero-headlessui-tabs",
+  "filename": "hero-headlessui-tabs.tsx",
+  "category": "hero",
+  "style_tags": [
+    "headlessui",
+    "tabs",
+    "interactive",
+    "accessible"
+  ],
+  "color_scheme": [
+    "white",
+    "indigo"
+  ],
+  "complexity": "high",
+  "props_schema": {
+    "title": "string",
+    "description": "string",
+    "tabs": "array",
+    "ctaButton": "object"
+  },
+  "dependencies": [
+    "@headlessui/react"
+  ],
+  "description": "Interactive Headless UI hero with accessible tab panels",
+  "source": "Headless UI"
+}

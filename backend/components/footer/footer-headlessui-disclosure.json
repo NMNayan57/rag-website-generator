@@ -1,0 +1,28 @@
+{
+  "id": "footer-headlessui-disclosure",
+  "filename": "footer-headlessui-disclosure.tsx",
+  "category": "footer",
+  "style_tags": [
+    "headlessui",
+    "disclosure",
+    "collapsible",
+    "accessible"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "high",
+  "props_schema": {
+    "companyName": "string",
+    "description": "string",
+    "sections": "array",
+    "legalLinks": "array"
+  },
+  "dependencies": [
+    "@headlessui/react",
+    "@heroicons/react"
+  ],
+  "description": "Headless UI footer with collapsible disclosure sections",
+  "source": "Headless UI"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nav-headlessui-menu",
+  "filename": "nav-headlessui-menu.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "headlessui",
+    "accessible",
+    "dropdown",
+    "modern"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "logoSrc": "string",
+    "menuItems": "array",
+    "userMenu": "object"
+  },
+  "dependencies": [
+    "@headlessui/react",
+    "@heroicons/react"
+  ],
+  "description": "Headless UI navigation with accessible dropdown menu",
+  "source": "Headless UI"
+}

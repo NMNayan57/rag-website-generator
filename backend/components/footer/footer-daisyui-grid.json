@@ -1,0 +1,24 @@
+{
+  "id": "footer-daisyui-grid",
+  "filename": "footer-daisyui-grid.tsx",
+  "category": "footer",
+  "style_tags": [
+    "daisyui",
+    "grid",
+    "comprehensive",
+    "multi-column"
+  ],
+  "color_scheme": [
+    "base-200",
+    "neutral"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "companyName": "string",
+    "sections": "array",
+    "socialIcons": "array"
+  },
+  "dependencies": [],
+  "description": "DaisyUI footer with grid layout and multiple sections",
+  "source": "daisyUI"
+}

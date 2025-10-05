@@ -1,0 +1,23 @@
+{
+  "id": "footer-tailwind-simple",
+  "filename": "footer-tailwind-simple.tsx",
+  "category": "footer",
+  "style_tags": [
+    "tailwind",
+    "minimal",
+    "centered",
+    "simple"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "low",
+  "props_schema": {
+    "companyName": "string",
+    "links": "array"
+  },
+  "dependencies": [],
+  "description": "Minimal Tailwind CSS footer with centered layout",
+  "source": "Tailwind CSS"
+}

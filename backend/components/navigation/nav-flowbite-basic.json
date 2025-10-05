@@ -1,0 +1,26 @@
+{
+  "id": "nav-flowbite-basic",
+  "filename": "nav-flowbite-basic.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "flowbite",
+    "responsive",
+    "hamburger",
+    "basic"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "logoSrc": "string",
+    "links": "array"
+  },
+  "dependencies": [
+    "flowbite-react"
+  ],
+  "description": "Basic Flowbite React navbar with responsive collapse",
+  "source": "Flowbite React"
+}

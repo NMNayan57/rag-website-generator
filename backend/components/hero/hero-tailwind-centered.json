@@ -1,0 +1,24 @@
+{
+  "id": "hero-tailwind-centered",
+  "filename": "hero-tailwind-centered.tsx",
+  "category": "hero",
+  "style_tags": [
+    "tailwind",
+    "centered",
+    "simple",
+    "minimal"
+  ],
+  "color_scheme": [
+    "white",
+    "indigo"
+  ],
+  "complexity": "low",
+  "props_schema": {
+    "title": "string",
+    "description": "string",
+    "ctaButton": "object"
+  },
+  "dependencies": [],
+  "description": "Simple centered Tailwind CSS hero section",
+  "source": "Tailwind UI"
+}

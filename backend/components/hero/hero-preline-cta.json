@@ -1,0 +1,28 @@
+{
+  "id": "hero-preline-cta",
+  "filename": "hero-preline-cta.tsx",
+  "category": "hero",
+  "style_tags": [
+    "preline",
+    "cta-focused",
+    "conversion",
+    "modern"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "title": "string",
+    "subtitle": "string",
+    "features": "array",
+    "primaryCta": "object",
+    "secondaryCta": "object"
+  },
+  "dependencies": [
+    "preline"
+  ],
+  "description": "Preline UI conversion-focused hero with feature highlights",
+  "source": "Preline UI"
+}

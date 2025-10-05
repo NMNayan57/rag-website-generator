@@ -1,0 +1,25 @@
+{
+  "id": "footer-flowbite-newsletter",
+  "filename": "footer-flowbite-newsletter.tsx",
+  "category": "footer",
+  "style_tags": [
+    "flowbite",
+    "newsletter",
+    "signup",
+    "dark"
+  ],
+  "color_scheme": [
+    "dark",
+    "blue"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "newsletterTitle": "string",
+    "newsletterDescription": "string",
+    "columns": "array"
+  },
+  "dependencies": [],
+  "description": "Flowbite footer with newsletter signup and link columns",
+  "source": "Flowbite Blocks"
+}

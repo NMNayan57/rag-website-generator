@@ -1,0 +1,25 @@
+{
+  "id": "nav-tailwind-dropdown",
+  "filename": "nav-tailwind-dropdown.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "tailwind",
+    "dropdown",
+    "vanilla",
+    "menu"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "logoSrc": "string",
+    "links": "array",
+    "dropdownItems": "array"
+  },
+  "dependencies": [],
+  "description": "Pure Tailwind CSS navbar with dropdown menu",
+  "source": "Flowbite Docs"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "footer-preline-links",
+  "filename": "footer-preline-links.tsx",
+  "category": "footer",
+  "style_tags": [
+    "preline",
+    "links",
+    "modern",
+    "responsive"
+  ],
+  "color_scheme": [
+    "dark",
+    "gray"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "brandDescription": "string",
+    "linkSections": "array",
+    "socialLinks": "array"
+  },
+  "dependencies": [
+    "preline"
+  ],
+  "description": "Preline UI footer with organized link sections",
+  "source": "Preline UI"
+}

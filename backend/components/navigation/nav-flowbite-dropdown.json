@@ -1,0 +1,30 @@
+{
+  "id": "nav-flowbite-dropdown",
+  "filename": "nav-flowbite-dropdown.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "flowbite",
+    "dropdown",
+    "avatar",
+    "user"
+  ],
+  "color_scheme": [
+    "white",
+    "blue"
+  ],
+  "complexity": "high",
+  "props_schema": {
+    "brandName": "string",
+    "logoSrc": "string",
+    "userAvatar": "string",
+    "userName": "string",
+    "userEmail": "string",
+    "links": "array",
+    "dropdownItems": "array"
+  },
+  "dependencies": [
+    "flowbite-react"
+  ],
+  "description": "Flowbite navbar with user avatar dropdown menu",
+  "source": "Flowbite React"
+}

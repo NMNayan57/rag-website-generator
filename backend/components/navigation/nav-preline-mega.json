@@ -1,0 +1,27 @@
+{
+  "id": "nav-preline-mega",
+  "filename": "nav-preline-mega.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "preline",
+    "mega-menu",
+    "corporate",
+    "dropdown"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "high",
+  "props_schema": {
+    "brandName": "string",
+    "logoSrc": "string",
+    "megaMenuItems": "object",
+    "ctaButton": "object"
+  },
+  "dependencies": [
+    "preline"
+  ],
+  "description": "Preline UI mega menu navbar with multi-level dropdowns",
+  "source": "Preline UI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hero-daisyui-gradient",
+  "filename": "hero-daisyui-gradient.tsx",
+  "category": "hero",
+  "style_tags": [
+    "daisyui",
+    "gradient",
+    "centered",
+    "utility"
+  ],
+  "color_scheme": [
+    "primary",
+    "base-100"
+  ],
+  "complexity": "low",
+  "props_schema": {
+    "title": "string",
+    "subtitle": "string",
+    "buttonText": "string",
+    "buttonHref": "string"
+  },
+  "dependencies": [],
+  "description": "DaisyUI hero section with gradient background",
+  "source": "daisyUI"
+}

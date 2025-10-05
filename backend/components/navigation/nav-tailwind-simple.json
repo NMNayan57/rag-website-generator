@@ -1,0 +1,25 @@
+{
+  "id": "nav-tailwind-simple",
+  "filename": "nav-tailwind-simple.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "tailwind",
+    "simple",
+    "minimal",
+    "clean"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "low",
+  "props_schema": {
+    "logoSrc": "string",
+    "brandName": "string",
+    "navigation": "array",
+    "ctaText": "string"
+  },
+  "dependencies": [],
+  "description": "Simple Tailwind CSS navbar with clean design",
+  "source": "Tailwind CSS"
+}

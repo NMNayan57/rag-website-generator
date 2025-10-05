@@ -1,0 +1,25 @@
+{
+  "id": "nav-daisyui-search",
+  "filename": "nav-daisyui-search.tsx",
+  "category": "navigation",
+  "style_tags": [
+    "daisyui",
+    "search",
+    "avatar",
+    "utility"
+  ],
+  "color_scheme": [
+    "base-100",
+    "neutral"
+  ],
+  "complexity": "medium",
+  "props_schema": {
+    "brandName": "string",
+    "searchPlaceholder": "string",
+    "avatarSrc": "string",
+    "menuItems": "array"
+  },
+  "dependencies": [],
+  "description": "DaisyUI navbar with search input and avatar dropdown",
+  "source": "daisyUI"
+}

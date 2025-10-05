@@ -1,0 +1,28 @@
+{
+  "id": "footer-flowbite-simple",
+  "filename": "footer-flowbite-simple.tsx",
+  "category": "footer",
+  "style_tags": [
+    "flowbite",
+    "simple",
+    "social",
+    "responsive"
+  ],
+  "color_scheme": [
+    "white",
+    "gray"
+  ],
+  "complexity": "low",
+  "props_schema": {
+    "brandName": "string",
+    "brandHref": "string",
+    "logoSrc": "string",
+    "links": "array",
+    "socialLinks": "array"
+  },
+  "dependencies": [
+    "flowbite-react"
+  ],
+  "description": "Simple Flowbite footer with social links",
+  "source": "Flowbite React"
+}
